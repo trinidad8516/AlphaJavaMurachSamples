@@ -1,3 +1,5 @@
+package MurachBook_apps.ch18_ProductMaint.src;
+
 public class DAOFactory
 {
     // this method maps the ProductDAO interface

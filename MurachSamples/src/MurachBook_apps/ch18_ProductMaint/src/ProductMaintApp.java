@@ -1,3 +1,5 @@
+package MurachBook_apps.ch18_ProductMaint.src;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 

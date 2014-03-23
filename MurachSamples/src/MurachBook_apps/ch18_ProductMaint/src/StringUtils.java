@@ -1,3 +1,5 @@
+package MurachBook_apps.ch18_ProductMaint.src;
+
 public class StringUtils
 {
     public static String padWithSpaces(String s, int length)
